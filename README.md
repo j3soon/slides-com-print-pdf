@@ -65,3 +65,7 @@ Hint: In case that not all resources are downloaded, make sure to scroll through
    ```
 3. Wait for the webpage to load. Manually scroll to the bottom to load every embedded asset.
 4. Right-click and Print. Set `Destination: Save as PDF`, `Margins: None`, and then save to file.
+
+# Contributers
+- [Johnson Sun](https://j3soon.github.io/) (j3soon)
+- [Yves-Simon Zeulner](https://de.linkedin.com/in/yves-simon-zeulner-7a9b042a9) (ysz0507)
